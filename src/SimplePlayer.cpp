@@ -6,7 +6,6 @@
 #include <VLCQtCore/Media.h>
 #include <VLCQtCore/MediaPlayer.h>
 #include <VLCQtCore/Enums.h>
-#include <add_dialog.h>
 #include "SimplePlayer.h"
 #include "ui_SimplePlayer.h"
 
