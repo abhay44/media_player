@@ -11,7 +11,7 @@ Download the appimage from the repository and then give the vlc plugin path by t
 
 and then execute the appimage by this command
 
-    ./mediaplayer.AppImage
+    ./media_player.AppImage
 
 That's it!
 
